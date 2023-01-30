@@ -2,8 +2,8 @@
   "favicon": "https://cdn.jsdelivr.net/gh/chasenz/nav@image/nav-1675051723671-灯塔.png",
   "homeUrl": "https://nav3.cn",
   "language": "zh-CN",
-  "loading": "random",
-  "showGithub": true,
+  "loading": "loading4",
+  "showGithub": false,
   "title": "导航标",
   "description": "Navigating",
   "keywords": "Navigating",
@@ -32,19 +32,13 @@
   "simThemeAutoplay": true,
   "sideThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/nav-1637490885331-ChMkKWF4tn6IeIGwAD5r3l1JSDcAAU-5QFAFu4APmv2924.jpeg",
-      "url": "",
-      "width": null,
-      "height": null
-    },
-    {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/sim-wallpaper.jpg",
+      "src": "https://cdn.jsdelivr.net/gh/chasenz/nav@image/nav-1675052296592-ishan-seefromthesky-eWSh-bkaKU8-unsplash.jpg",
       "url": "",
       "width": null,
       "height": null
     }
   ],
-  "sideThemeHeight": 350,
+  "sideThemeHeight": 351,
   "sideThemeAutoplay": true,
   "shortcutThemeShowWeather": true,
   "shortcutThemeImages": [
@@ -55,7 +49,7 @@
       "height": null
     }
   ],
-  "showLanguage": true,
-  "showRate": true,
+  "showLanguage": false,
+  "showRate": false,
   "mirrorList": []
 }
